@@ -1,0 +1,2 @@
+# aulat10
+Exercícios
